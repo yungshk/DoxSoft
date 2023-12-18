@@ -8,3 +8,4 @@
 4. git clone https://github.com/anfisovDoxer/DoxSoft
 5. cd DoxSoft
 6. pip install -r requirments.txt
+7. python crypted.py
